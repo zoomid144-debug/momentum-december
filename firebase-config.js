@@ -1,11 +1,11 @@
-// Firebase web app configuration for momentumdecember.
-// This file is loaded by index.html; access is controlled by Firestore rules.
+// Firebase configuration for the momentumdecember-d project.
+// Access is controlled by Firebase Authentication and Firestore Security Rules.
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCiM70nQKOh8Z0WIRe6tMI8Kx03jR4nWSI",
-  authDomain: "momentumdecember.firebaseapp.com",
-  projectId: "momentumdecember",
-  storageBucket: "momentumdecember.firebasestorage.app",
-  messagingSenderId: "464198781832",
-  appId: "1:464198781832:web:a70311473b57ace3ae083d",
-  measurementId: "G-WXGDR27NS"
+  apiKey: "AIzaSyBrLcUQAATa1ol8WDPvq8MMFaje1viAEsc",
+  authDomain: "momentumdecember-d.firebaseapp.com",
+  projectId: "momentumdecember-d",
+  storageBucket: "momentumdecember-d.firebasestorage.app",
+  messagingSenderId: "843617899178",
+  appId: "1:843617899178:web:0281eab986daae58a0b6d3",
+  measurementId: "G-4XTJVTT95L"
 };
